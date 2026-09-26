@@ -143,7 +143,11 @@ const About = () => {
               <ul className="space-y-2.5 text-sm text-white/80 font-light max-h-[280px] overflow-y-auto pr-1">
                 <li className="flex items-start gap-2.5">
                   <span className="text-red-500 font-bold">&#8250;</span>
-                  <span><strong className="text-white">AI Intern</strong> — Mirai School of Technology</span>
+                  <span><strong className="text-white">AI Intern (Summer Internship - 2026)</strong> — Mirai School of Technology</span>
+                </li>
+                <li className="flex items-start gap-2.5">
+                  <span className="text-red-500 font-bold">&#8250;</span>
+                  <span><strong className="text-white">AI Intern (Winter Internship - 2026)</strong> — Mirai School of Technology</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <span className="text-red-500 font-bold">&#8250;</span>
@@ -177,7 +181,7 @@ const About = () => {
             </div>
             
             <div className="pt-6 font-mono text-xs text-white/40 relative z-10">
-              // 8 INTERNSHIPS COMPLETED
+              // 9 INTERNSHIPS COMPLETED
             </div>
           </div>
 
